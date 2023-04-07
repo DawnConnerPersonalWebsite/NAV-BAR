@@ -1,0 +1,72 @@
+.links {float: right;}
+.links a{text-decoration: none}
+header {  font-size: 2rem;
+   
+    left: 0;
+    right: 0;
+    padding: .5em;
+    box-shadow: 0 2px 4px -2px black; background-color: white;
+
+}
+body {background-color:lightblue}
+
+main > 
+
+h1 {
+    font-family:cursive;
+    font-weight: 100;
+    font-size: 2rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .project {
+    font-family: fantasy;
+    font-size: 1em;
+    width: calc(100% - 6em);
+    background: #ffebcc;
+    background: #fafafa;
+    color: #222;
+    box-shadow: 0 3px 6px -2px #ccc;
+    margin: 2em auto;
+    padding: 1em;
+  }
+  
+  .project-name {
+    font-weight: 900;
+    font-size: 2em;
+    margin: 0 0 1em;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .project p {
+    font-size: 1.3em;
+    font-weight: 100;
+    margin: 0 0 1em;
+    
+  }
+  
+  .project p:last-child {
+    margin-bottom: 0;
+  }
+  
+
+
+  footer {
+    box-sizing: border-box;
+    position: fixed;
+    height: 64px;
+    padding: 16px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    box-shadow: 0 -2px 4px -2px black;
+    background-color: white;
+}
+
+footer .media-link {
+    height: 32px; 
+    width:32px;
+    padding:10px;
+    
+  }

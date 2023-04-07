@@ -1,0 +1,45 @@
+.links {float: right;}
+.links a{text-decoration: none}
+header {  font-size: 2rem;
+   
+    left: 0;
+    right: 0;
+    padding: .5em;
+    box-shadow: 0 2px 4px -2px black; background-color: white;
+
+}
+body {
+  
+    background-color:lightblue;
+    max-width: 960px;
+    color: #232323;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {font-family:cursive}
+h2 { font-family:fantasy
+    color:darkred;
+    
+}
+
+
+
+footer {
+    box-sizing: border-box;
+    position: fixed;
+    height: 64px;
+    padding: 16px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    box-shadow: 0 -2px 4px -2px black;
+    background-color: white;
+}
+
+footer .media-link {
+    height: 32px; 
+    width:32px;
+    padding:10px;
+    
+  }
